@@ -1,4 +1,4 @@
-# GroceryLot License
+# GroceyLot License
 
 Copyright (c) 2024
 
